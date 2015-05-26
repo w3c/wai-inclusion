@@ -1,0 +1,18 @@
+<%= partial "layouts/header" %>
+
+<main id="main" role="main">
+  <%= partial "layouts/status" %>
+  <header class="heading">
+    <h1>
+      <%= current_page.data.title %>
+    </h1>
+  </header>
+
+  <div class="inner">
+    <%= yield %>
+  </div>
+
+  <%= partial "layouts/contribute" %>
+</main>
+
+<%= partial "layouts/footer" %>

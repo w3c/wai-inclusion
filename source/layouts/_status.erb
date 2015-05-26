@@ -1,0 +1,10 @@
+<% if current_page.data.status=="draft" %>
+<div class="status">
+  <p><strong>Status:</strong> This is an in-progress, unapproved draft.</p>
+</div>
+<% end %>
+<% if current_page.data.status=="editors-draft" %>
+<div class="status">
+  <p><strong>Status:</strong> This is an in-progress, unapproved editor’s draft. It is not yet ready for broad review.</p>
+</div>
+<% end %>
