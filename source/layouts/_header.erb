@@ -3,17 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>
-  <%= current_page.data.title %>
-  <% if current_page.data.order == 1 %>
-    <% if current_page.data.guide_title %>
-      <%= " &bull; " + current_page.data.guide_title %>
-    <% end %>
-  <% else %>
-    <% if current_page.parent and current_page.parent.data.guide_title %>
-      <%= " &bull; " + current_page.parent.data.guide_title %>
-    <% end %>
-  <% end %>
-  &bull; Quick Start Guides &bull; WAI
+  <%= current_page.data.title %> &bull; WAI
   </title>
   <meta name="viewport" content="width=device-width">
   <%= stylesheet_link_tag "main" %>
