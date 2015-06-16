@@ -73,6 +73,14 @@ helpers do
       '<li>' + link_to(link_text, url, options) + '</li>'
     end
   end
+  
+  def page_contents(start_end = :start)
+    if start_end == :start
+      '<div id="contents"><h2>Page Contents</h2>'
+    elsif start_end == :end
+      '</div>'
+    end
+  end
 end
 
 set :markdown_engine, :kramdown
