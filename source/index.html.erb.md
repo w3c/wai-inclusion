@@ -3,6 +3,7 @@ title: Web for All
 subtitle: Accessibility, Usability, and Inclusion
 status: editors-draft
 editors:
+  - Kevin White
   - Shawn Lawton Henry
   - Shadi Abou-Zahra
 contributors:
