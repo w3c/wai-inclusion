@@ -42,35 +42,11 @@
 
 # Methods defined in the helpers block are available in templates
 helpers do
-  def x_link_to(link_text, url, options = {})
-    options[:class] ||= ""
-    if url == '/' + current_page.path
-      options[:class] << " current"
-      '<span class="current-a">' + link_text + '</span>'
+  def w3url(uri)
+    if development? || ENV['BUILD_FOR_GITHUB']
+      'https://www.w3.org' + uri.to_s
     else
-      link_to(link_text, url, options)
-    end
-  end
-
-  def is_current(url)
-    url == current_page.path
-  end
-
-  def nav_link(link_text, url, options = {})
-    options[:class] ||= ""
-  
-    if is_current(url)
-      '<span class="label"><span id="current-icon">»</span>' + link_text + '</span>'
-    else
-      link_to(link_text, url, options)
-    end
-  end
-
-  def list_nav_link(link_text, url, options = {})
-    if is_current(url)
-      '<li id="current-node" class="current-nav"><span class="label"><span id="current-icon">»</span>' + link_text + '</span></li>'
-    else
-      '<li>' + link_to(link_text, url, options) + '</li>'
+      uri
     end
   end
   

@@ -2,13 +2,6 @@
 title: Web for All
 subtitle: Accessibility, Usability, and Inclusion
 status: editors-draft
-editors:
-  - Kevin White
-  - Shawn Lawton Henry
-  - Shadi Abou-Zahra
-contributors:
-  - participants of the <a href="/WAI/EO/2008/wai-age-tf.html#participants">WAI-AGE Task Force</a>
-  - the <a href="/WAI/EO/">Education and Outreach Working Group (EOWG)</a>
 ---
 
 {::nomarkdown}
