@@ -1,6 +1,6 @@
 ---
-title: Web for All
-subtitle: Accessibility, Usability, and Inclusion
+title: Accessibility, Usability, and Inclusion
+subtitle: Understanding How to Implement a Web for All
 status: editors-draft
 ---
 
