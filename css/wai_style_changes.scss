@@ -1,3 +1,5 @@
+---
+---
 @-ms-viewport { width: device-width; }
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
@@ -25,10 +27,10 @@ $wai_grey: #333333;
 @import "helpers";
 
 .font-primary {
-	font-family: "Trebuchet MS", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
+  font-family: "Trebuchet MS", "HelveticaNeue", "Helvetica", "Arial", sans-serif;
 }
 .font-secondary {
-	font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, Times, "Times New Roman", serif;
 }
 
 // Modifications to existing WAI stylesheet
@@ -94,19 +96,19 @@ ul.inline {
 }
 
 .status {
-	padding: .25em;
+  padding: .25em;
   margin-bottom: -1.5em;
-	h3, p {
-		display:inline;
-		color: inherit;
-		font-size: 1em;
-	}
-	.draft & {
-		background-color: #CFC;
-	}
-	.editors-draft & {
-		background-color:#FCC;
-	}
+  h3, p {
+    display:inline;
+    color: inherit;
+    font-size: 1em;
+  }
+  .draft & {
+    background-color: #CFC;
+  }
+  .editors-draft & {
+    background-color:#FCC;
+  }
 }
 
 // Adjust navigation for small viewports
@@ -193,7 +195,7 @@ ul.inline {
   body {
     background: #ffffff;
   }
-  
+
   header {
     img {
       max-width: none;

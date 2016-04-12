@@ -1,18 +1,19 @@
 ---
+layout: default
 title: Accessibility, Usability, and Inclusion
 subtitle: Understanding How to Implement a Web for All
 status: editors-draft
 ---
 
 {::nomarkdown}
-<%= page_contents %>
+{% include page_contents.html %}
 {:/}
 
 {:toc}
 * Will be replaced with the ToC
 
 {::nomarkdown}
-<%= page_contents :end %>
+{% include page_contents_end.html %}
 {:/}
 
 ## Introduction
@@ -54,10 +55,10 @@ In reality both technical standards and input from real people are important whe
 * *Usability Testing* - A staple research methodology that will benefit from including people with disabilities. Early stage prototypes might not be usable by assistive technology users, but more complete websites should not present such problems. People with disabilities provide insight both as potential users of the web service and into any accessibility issues.
 
 * *Persona development* - Personas are a valuable tool in understanding and communicating user needs. Including personas with disabilities will highlight the importance of this audience and allow for common barriers to be communicated across the project team.
-  
-* *Use Cases* - Use Cases explain how a user engages with a website and how the system responds. Incorporating use cases for common tasks performed by users with disabilities will help highlight where potential issues will arise.  
 
-* *Prototype development* - Prototypes are often not supportive of assistive technology. Where design choices are likely to cause accessibility barriers, for example, including carousels or modal pop-ups, notes on how to avoid these barriers can be included with the prototype. 
+* *Use Cases* - Use Cases explain how a user engages with a website and how the system responds. Incorporating use cases for common tasks performed by users with disabilities will help highlight where potential issues will arise.
+
+* *Prototype development* - Prototypes are often not supportive of assistive technology. Where design choices are likely to cause accessibility barriers, for example, including carousels or modal pop-ups, notes on how to avoid these barriers can be included with the prototype.
 
 * *Technical Standards* - While including users with disabilities is key to making accessibility efforts more effective and more efficient, that alone cannot address all issues. Even large projects cannot cover the diversity of disabilities, adaptive strategies, and assistive technologies. That is the role of accessibility standards.
 
@@ -73,3 +74,4 @@ Usability efforts often focus on primary user groups and common user characteris
 * *Broader design perspectives* - Involving people with disabilities early in design processes broadens designers' perspectives and can lead to making products work better for more people in more situations.
 
 * *Easier identification of usability issues* - People with disabilities are often more sensitive to usability problems, making the problems much more apparent. For example, a large number of links poorly organized on a web page will be more of a problem for people with some types of cognitive, physical, or visual disabilities.
+

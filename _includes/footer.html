@@ -1,0 +1,36 @@
+  <footer id="footer" role="contentinfo">
+    <div>
+      <h2>Document Information</h2>
+      <p>
+        <strong>Status:</strong>
+        {% if page.status=="approved-draft" %}
+          Draft, approved by <a href="{{ '/WAI/EO/' | prepend: site.w3c_url }}">EOWG</a>, updated
+        {% elsif page.status=="draft" %}
+          [DRAFT] updated
+        {% elsif page.status=="editors-draft" %}
+          [EDITOR’S DRAFT] updated
+        {% else %}
+          Updated
+        {% endif %}
+        {{ site.time | date:"%d %b %Y" }}
+        {% if page.first_published %}
+          (first published {{ page.first_published }})
+        {% endif %}
+        <br>
+        {% include contributors.html %}
+      </p>
+      <p class="footer-nav">
+        [<a href="{{ '/WAI/sitemap.html' | prepend: site.w3c_url}}">WAI Site Map</a>]
+        [<a href="{{ '/WAI/sitehelp.html' | prepend: site.w3c_url}}">Help with WAI Website</a>]
+        [<a href="{{ '/WAI/search.php' | prepend: site.w3c_url}}">Search</a>]
+        [<a href="{{ '/WAI/contacts' | prepend: site.w3c_url}}">Contacting WAI</a>]
+        <br>
+        <strong>Feedback welcome to <a href="mailto:wai-eo-editors@w3.org?subject=%5b{{page.title | replace: ' ', '%20' }}%5d">wai-eo-editors@w3.org</a></strong> (a publicly archived list) or <a href="mailto:wai@w3.org?subject=%5b{{page.title | replace: ' ', '%20' }}%5d">wai@w3.org</a> (a WAI staff-only list).</p>
+      <div class="copyright">
+        <p>Copyright &#xA9; {{ site.time | date:"%Y" }} W3C <sup>&#xAE;</sup> (<a href="http://www.csail.mit.edu/"><abbr title="Massachusetts Institute of Technology">MIT</abbr></a>, <a href="http://www.ercim.eu/"><abbr title="European Research Consortium for Informatics and Mathematics">ERCIM</abbr></a>, <a href="http://www.keio.ac.jp/">Keio</a>, <a href="http://ev.buaa.edu.cn/">Beihang</a>) <a href="{{ '/Consortium/Legal/ipr-notice' | prepend: site.w3c_url}}">Usage policies apply</a>.
+        </p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
