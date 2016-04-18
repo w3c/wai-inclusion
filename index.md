@@ -9,19 +9,19 @@ status: editors-draft
 
 *Accessibility, usability, and inclusion* are three activities that are closely related and overlap significantly. There are a few cases when it is important to distinguish between these terms, such as when defining specific requirements and standards. However, they are more effectively addressed together, such as when designing and developing websites and applications. A holistic approach, with understanding for the different requirements and standards, leads to a more accessible, usable, and inclusive web for everyone.
 
-## Understanding the Terminology
+## The Context
 
 There are no absolute boundaries for the terms accessibility, usability, and inclusion because they are qualitative aspects, though inclusion can be seen as the broader umbrella term. There are several definitions for each. Rather than attempting yet another definition, the following describes the scope of these terms.
 
 {:.no_toc}
-### Understanding Accessibility
+### Accessibility
 
 Accessibility addresses discriminatory aspects related to equivalent user experience for people with disabilities, including people with age-related impairments. For the Web, accessibility means that people with disabilities can perceive, understand, navigate, and interact with websites and tools, and that they can contribute equally without barriers. Further background is provided in the [introduction to web accessibility](/standards/webdesign/accessibility).
 
 While accessibility features typically improve the use and experience for many more people, accessibility is not about the inclusion of everyone. Such a broad focus would likely overshadow specific accessibility requirements, especially for those with less impact on the overall user experience for everyone else.
 
 {:.no_toc}
-### Understanding Usability
+### Usability
 
 Usability is about designing products to be effective, efficient, and satisfying for the target audience of the product. In essence this would include the user experience for people with disabilities but usability guidance and tools often neglect accessibility considerations. Usability provides techniques and approaches, such as user-centered design (UCD), that can be used to implement design considerations, including accessibility considerations, more effectively.
 
