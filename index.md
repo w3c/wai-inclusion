@@ -7,7 +7,7 @@ status: editors-draft
 
 ## Introduction
 
-*Accessibility, usability, and inclusion* are three activities that are closely related and overlap significantly. There are a few cases when it is important to distinguish between these terms, such as when defining specific requirements and standards. However, they are more effectively addressed together, such as when designing and developing websites and applications. A holistic approach, with understanding for the different requirements and standards, leads to a more accessible, usable, and inclusive web for everyone.
+*Accessibility, usability, and inclusion* are closely related and overlap significantly. There are a few cases when it is important to distinguish between these terms, such as when defining specific requirements and standards. However, they are more effectively addressed together, such as when designing and developing websites and applications. A holistic approach, with understanding for the different requirements and standards, leads to a more accessible, usable, and inclusive web for everyone.
 
 ## The Context
 
