@@ -11,7 +11,7 @@ status: editors-draft
 
 ## The Context
 
-There are no absolute boundaries for the terms accessibility, usability, and inclusion because they are qualitative aspects, though inclusion can be seen as the broader umbrella term. There are several definitions for each. Rather than attempting yet another definition, the following describes the scope of these terms.
+There are no absolute boundaries for the terms accessibility, usability, and inclusion because they are qualitative aspects. There are several definitions for each. Rather than attempting yet another definition, the following describes the scope of these terms.
 
 {:.no_toc}
 ### Accessibility
@@ -23,7 +23,7 @@ While accessibility features typically improve the use and experience for many m
 {:.no_toc}
 ### Usability
 
-Usability is about designing products to be effective, efficient, and satisfying for the target audience of the product. In essence this would include the user experience for people with disabilities but usability guidance and tools often neglect accessibility considerations. Usability provides techniques and approaches, such as user-centered design (UCD), that can be used to implement design considerations, including accessibility considerations, more effectively.
+Usability is about designing products to be effective, efficient, and satisfying for the target audience of the product. In essence this would include user experience for people with disabilities but usability guidance and tools often neglect accessibility considerations. Usability provides techniques and approaches, such as user-centered design (UCD), that can be used to implement design considerations, including accessibility considerations, more effectively.
 
 In general, usability does not fully address the technical aspects of accessibility. Combining usability techniques with accessibility considerations effectively addresses user experience and technical requirements for people with disabilities. Involving people with disabilities in usability processes ensures usability of accessibility features (usable accessibility) and an improved user experience for everyone.
 
@@ -32,14 +32,12 @@ In general, usability does not fully address the technical aspects of accessibil
 
 Inclusion is concerned with ensuring access for everyone, and that nobody is left behind. This includes broad aspects such as connectivity (to electricity and the internet), computer skills and literacy, language support, and affordability of hardware and software, as well as access for people with disabilities. Many of these aspects are inter-related and need to be analyzed and addressed concurrently. For example, older people often observe functional impairments that might be combined with lower digital literacy. Addressing only one of these aspects does not ensure inclusion for everyone.
 
-Ensuring a [web for all](/Consortium/mission.html#principles) is one of the design principles that guide the work of the World Wide Web Consortium (W3C). Currently this includes accessibility, internationalization, and mobile web for social development.
-
 {:.no_toc}
 ### Inclusive Design
 
-In some regions this is referred to as *universal design* or *design for all*. It involves designing products, such as websites, to allow their use by the broadest audience possible. This includes people with different needs and preferences, which may be due to disability or other circumstance. For example, one person may need text size larger or smaller than another, or may prefer a specific font type over another. Fortunately the Web is designed to be adaptable so that it can meet these different needs, for example through browser and website preference settings.
+In some regions this is referred to as *universal design* or *design for all*. It involves designing products, such as websites, to allow their use by the broadest audience possible. This includes people with different needs and preferences, which may be due to disability or other circumstance. For example, one person may need text size larger or smaller than another, or may prefer a specific font type over another. Fortunately the Web is designed to be adaptable so that it can meet these different needs, for example through web browser and website preference settings.
 
-Accessibility addresses many aspects of inclusive design on the Web, which is why it is sometimes considered to be a synonym. However, accessibility alone does not address all aspects of inclusive design, such as language support and mobile design.
+Accessibility addresses many aspects of inclusive design on the Web, which is why it is sometimes considered to be a synonym. However, accessibility alone does not address all aspects of inclusive web design, such as for language support and mobile design.
 
 ## Accessible Design
 
