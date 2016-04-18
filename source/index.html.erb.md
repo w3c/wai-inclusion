@@ -17,11 +17,11 @@ status: editors-draft
 
 ## Introduction
 
-*Accessibility, usability, and inclusion* are three activities that are closely related and overlap significantly. There are a few cases when it is important to distinguish between these terms, such as when defining specific requirements and standards. However, they aremore effectively addressed together, such as when designing and developing websites and applications. A holistic approach, with understanding for the different requirements and standards, leads to a more accessible, usable, and inclusive web for everyone.
+*Accessibility, usability, and inclusion* are closely related and overlap significantly. There are a few cases when it is important to distinguish between them, such as when defining specific requirements and standards. However in most cases, such as when designing and developing websites and applications, they are more effectively addressed together. A holistic approach that addresses all related requirements and standards leads to a more accessible, usable, and inclusive web for everyone.
 
 ## Background
 
-The needs of different user groups are closely inter-related, and addressing one user group usually benefits others. For example, affordability of computer technology is critical for people with low income, which includes many people with disabilities. Yet in some cases, such as for the design of requirements and standards, it is important to have detailed expertise in the particular areas to ensure adequate coverage. For example, affordability can have additional repercussions due to the particular type of disability, such as the need for assistive technology, broadband, or particular hardware and software. There is a need for expertise within the different user groups, and a need for such experts to work together.
+The needs of different user groups are closely inter-related, and addressing one user group usually benefits others. For example, affordability of computer technology is critical for people with low income, which includes many people with disabilities. In some cases, such as developing requirements and standards, it is important to have detailed expertise in the particular areas to ensure adequate coverage. For example, affordability can have additional repercussions due to the particular type of disability, such as the need for assistive technology, broadband, or particular hardware and software. There is a need for expertise within the different user groups, and a need for such experts to work together.
 
 {:.no_toc}
 ### Understanding Accessibility
