@@ -71,6 +71,6 @@ To make the Web work well for people with disabilities, all those involved in cr
 
 Usability efforts often focus on primary user groups and common user characteristics; in the past, many have not included people with disabilities. However, there are benefits to including people with disabilities in usability research and practice, including:
 
-* *Broader design perspectives* - Involving people with disabilities early in design processes broadens designers' perspectives and can lead to making products work better for more people in more situations.
+* *Broader design perspectives* - Involving people with disabilities early in design processes broadens designers' and developers' perspectives and can lead to making products work better for more people in more situations.
 
-* *Easier identification of usability issues* - People with disabilities are often more sensitive to usability problems, making the problems much more apparent. For example, a large number of links poorly organized on a web page will be more of a problem for people with some types of cognitive, physical, or visual disabilities.
+* *Easier identification of usability issues* - People with disabilities are often more sensitive to usability problems, making any problems much more apparent. For example, a large number of links poorly organized on a web page will be a more significant problem for people with some types of cognitive, physical, or visual disabilities.
