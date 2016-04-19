@@ -33,7 +33,7 @@ In general, usability does not fully address the technical aspects of accessibil
 Inclusion is concerned with ensuring access for everyone, and that nobody is left behind. This includes broad aspects such as connectivity (to electricity and the internet), computer skills and literacy, language support, and affordability of hardware and software, as well as access for people with disabilities. Many of these aspects are inter-related and need to be analyzed and addressed concurrently. For example, older people often observe functional impairments that might be combined with lower digital literacy. Addressing only one of these aspects does not ensure inclusion for everyone.
 
 {:.no_toc}
-### Inclusive Design
+#### Inclusive Design
 
 In some regions this is referred to as *universal design* or *design for all*. It involves designing products, such as websites, to allow their use by the broadest audience possible. This includes people with different needs and preferences, which may be due to disability or other circumstance. For example, one person may need text size larger or smaller than another, or may prefer a specific font type over another. Fortunately the Web is designed to be adaptable so that it can meet these different needs, for example through web browser and website preference settings.
 
@@ -41,7 +41,7 @@ Accessibility addresses many aspects of inclusive design on the Web, which is wh
 
 ## Accessible Design
 
-Accessibility provides an essential foundation for inclusive web design. It is supported by a comprehensive set of [guidelines, standards, and techniques](https://www.w3.org/WAI/guid-tech.html), as well as educational resources and supporting materials. These can be combined with other design considerations, such as for [internationalization](https://www.w3.org/International/).
+Accessibility provides an essential foundation for inclusive web design. It is supported by a comprehensive set of [guidelines, standards, and techniques](https://www.w3.org/WAI/guid-tech.html), as well as educational resources and supporting materials. These can be combined with other design considerations, such as for [internationalization](https://www.w3.org/International/), to design for an accessible and inclusive Web.
 
 Yet accessibility is more than technical standards. In reality both technical standards and input from real people are important when designing and developing for accessibility. Combining accessibility and usability expertise ensures that web design is technically and functionally usable by people with disabilities.
 
