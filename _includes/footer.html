@@ -2,22 +2,8 @@
     <div>
       <h2>Document Information</h2>
       <p>
-        <strong>Status:</strong>
-        {% if page.status=="approved-draft" %}
-          Draft, approved by <a href="{{ '/WAI/EO/' | prepend: site.w3c_url }}">EOWG</a>, updated
-        {% elsif page.status=="draft" %}
-          [DRAFT] updated
-        {% elsif page.status=="editors-draft" %}
-          [EDITOR’S DRAFT] updated
-        {% else %}
-          Updated
-        {% endif %}
-        {{ site.time | date:"%d %b %Y" }}
-        {% if page.first_published %}
-          (first published {{ page.first_published }})
-        {% endif %}
-        <br>
-        {% include contributors.html %}
+        <strong>Status:</strong> [EDITOR’S DRAFT] updated 21 April 2016 (first published March 2010) <br />
+        <strong>Editors:</strong> <a href="/People/shadi">Shadi Abou-Zahra</a>, <a href="/People/Shawn">Shawn Lawton Henry</a>, and <a href="/People/kevin">Kevin White</a>. Contributors: Sharron Rush and <a href="/WAI/EO/EOWG-members">participants</a> of the <a href="/WAI/EO/">Education and Outreach Working Group</a>. Updated with support from the <a href="/WAI/DEV/" shape="rect"><acronym>WAI-DEV</acronym> Project</a>, and first developed with support from the <a href="/WAI/WAI-AGE/" shape="rect"><acronym>WAI-AGE</acronym> Project</a>, co-funded by the European Commission.
       </p>
       <p class="footer-nav">
         [<a href="{{ '/WAI/sitemap.html' | prepend: site.w3c_url}}">WAI Site Map</a>]
