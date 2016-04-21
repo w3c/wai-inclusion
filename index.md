@@ -5,7 +5,7 @@ subtitle: Combined Aspects of a Web for All
 status: editors-draft
 ---
 
-## Introduction
+<h2 class="no-display">Introduction</h2>
 
 *Accessibility, usability, and inclusion* are closely related and overlap significantly. They are most effectively addressed together, such as when designing and developing websites and applications. While practitioners should understand that each aspect may have somewhat different requirements and standards, a holistic approach leads to a more accessible, usable, and inclusive web for everyone.
 
