@@ -9,8 +9,8 @@ status: editors-draft
   <p><em>Accessibility, usability, and inclusive design</em> are closely related. Their goals, approaches, and guidelines overlap significantly.</p>
   <p>In most situations, such as when designing and developing websites and applications, it is most effective to address them together.</p>
   <p>There are a few situations when it's important to focus specifically on one aspect, such as when addressing discrimination against people with disabilities and when defining specific accessibility standards.</p>
-  <p>This article briefly:</p>
-  <ul>
+  <p class="listintro">This article briefly:</p>
+  <ul class="listafterpul">
     <li>explains the distinctions and overlaps between accessibility, usability, and inclusive design,</li>
     <li>points out the importance of maintaining the focus of accessibility on people with disabilities, and</li>
     <li>encourages increased coordination between accessibility, usability, and inclusion.</li>
@@ -37,8 +37,8 @@ status: editors-draft
   <p>Additionally, accessibility includes a technical aspect that is usually not a focus of usability. In practice, basic accessibility is a prerequisite for usability.</p>
 
   <h3 id="inclusive-design">Accessibility and Inclusive Design</h3>
-  <p>Several accessibility requirements also benefit people and situations that are a focus of inclusive design. For example, <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and <em>Without</em> Disabilities</a> describes accessibility benefits to:</p>
-  <ul>
+  <p class="listintro">Several accessibility requirements also benefit people and situations that are a focus of inclusive design. For example, <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and <em>Without</em> Disabilities</a> describes accessibility benefits to:</p>
+  <ul class="listafterpul">
     <li>people with low literacy or not fluent in the language</li>
     <li>people with low bandwidth connections or using older technologies</li>
     <li>new and infrequent users</li>
@@ -54,8 +54,8 @@ status: editors-draft
 
   <h3 id="usable-accessibility">Usable Accessibility</h3>
   <p>Web designers and developers can use usability processes, methods, and techniques, such as user-centered design (UCD) process and user experience design, to address the user interface component of accessibility. While the considerations of people with disabilities are not always included in common practices, they can be easily integrated into existing usability processes, methods, and techniques.</p>
-  <p>A key aspects is incorporating <strong>real people</strong> in design, including:</p>
-  <ul>
+  <p class="listintro">A key aspect is incorporating <strong>real people</strong> in design, including:</p>
+  <ul class="listafterpul">
     <li>Ensuring that everyone involved in web projects understands the basics of <a href="https://www.w3.org/WAI/intro/people-use-web">how people with disabilities use the Web</a>,</li>
     <li><a href="https://www.w3.org/WAI/users/involving">Involving users with disabilities</a> early and throughout the design process, and </li>
     <li><a href="https://www.w3.org/WAI/eval/users.html">Involving users in evaluating web accessibility</a>.</li>
@@ -65,8 +65,8 @@ status: editors-draft
 
   <h2 id="conclusion">Conclusion</h2>
   <p>Accessibility practitioners and researchers can incorporate usability techniques to improve 'usable accessibility'. User experience designers and researchers can incorporate accessibility to make their designs work better for more people in more situations. Addressing accessibility, usability, and inclusion together can more effectively lead to a more accessible, usable, and inclusive web for everyone. Resources to help are linked throughout this page.</p>
-  <p><a href="http://dspace.mit.edu/handle/1721.1/88013">The role of accessibility in a universal web</a> is a related resource that:</p>
-  <ul>
+  <p class="listintro"><a href="http://dspace.mit.edu/handle/1721.1/88013">The role of accessibility in a universal web</a> is a related resource that:</p>
+  <ul class="listafterpul">
     <li>provides a more in-depth exploration of the importance and benefits of accessibility as a distinct discipline continuing to focus on people with disabilities,</li>
     <li>encourages increased communication and coordination between accessibility, usability, and inclusion research and practice in the design and development of guidelines, websites, browsers, assistive technologies, and other web tools.</li>
   </ul>
