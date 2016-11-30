@@ -49,7 +49,7 @@ status: editors-draft
 
   <h2 id="accessible-design">Accessible Design</h2>
   <p>The goal of web accessibility is to make the web work well for <strong>people</strong> with disabilities. Accessible design has both a technical component and a user interface component.</p>
-  <p>There are <a href="https://www.w3.org/WAI/guid-tech.html">guidelines, standards, and techniques</a>, such as the Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>), which is the international standard <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>. If designers, developers, and project managers approach accessibility as a checklist of meeting accessibility standards, the focus is only on the technical aspects of accessibility, and the human interaction aspect is often lost.</p>
+  <p>There are <a href="https://www.w3.org/WAI/guid-tech.html">guidelines, standards, and techniques</a>, such as the Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>), which is the international standard <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>. If designers, developers, and project managers approach accessibility as a checklist to meet standards, the focus is only on the technical aspects of accessibility, and the human interaction aspect is often lost.</p>
   <p>Combining accessibility standards and usability processes with real people ensures that web design is technically and functionally usable by people with disabilities. This is referred to as <em>usable accessibility</em> or <em>accessible user experience (UX)</em>.</p>
 
   <h3 id="usable-accessibility">Usable Accessibility</h3>
@@ -65,7 +65,7 @@ status: editors-draft
 
   <h2 id="conclusion">Conclusion</h2>
   <p>Accessibility practitioners and researchers can incorporate usability techniques to improve 'usable accessibility'. User experience designers and researchers can incorporate accessibility to make their designs work better for more people in more situations. Addressing accessibility, usability, and inclusion together can more effectively lead to a more accessible, usable, and inclusive web for everyone. Resources to help are linked throughout this page.</p>
-  <p class="listintro"><a href="http://dspace.mit.edu/handle/1721.1/88013">The role of accessibility in a universal web</a> is a related resource that:</p>
+  <p class="listintro">For more on this topic, see <a href="http://dspace.mit.edu/handle/1721.1/88013">The role of accessibility in a universal web</a>, which:</p>
   <ul class="listafterpul">
     <li>provides a more in-depth exploration of the importance and benefits of accessibility as a distinct discipline continuing to focus on people with disabilities,</li>
     <li>encourages increased communication and coordination between accessibility, usability, and inclusion research and practice in the design and development of guidelines, websites, browsers, assistive technologies, and other web tools.</li>
