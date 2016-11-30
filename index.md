@@ -49,7 +49,7 @@ status: editors-draft
 
   <h2 id="accessible-design">Accessible Design</h2>
   <p>The goal of web accessibility is to make the web work well for <strong>people</strong> with disabilities. Accessible design has both a technical component and a user interface component.</p>
-  <p>There are <a href="https://www.w3.org/WAI/guid-tech.html">guidelines, standards, and techniques</a>, such as the Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>), which is the international standard <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>. If designers, developers, and project managers approach accessibility as a checklist of meeting accessibility standards, the focus is only on the technical aspects of accessibility, and the human interaction aspect is often lost.</p>
+  <p>There are <a href="https://www.w3.org/WAI/guid-tech.html">guidelines, standards, and techniques</a>, such as the Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>), which is the international standard <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>. If designers, developers, and project managers approach accessibility as a checklist to meet standards, the focus is only on the technical aspects of accessibility, and the human interaction aspect is often lost.</p>
   <p>Combining accessibility standards and usability processes with real people ensures that web design is technically and functionally usable by people with disabilities. This is referred to as <em>usable accessibility</em> or <em>accessible user experience (UX)</em>.</p>
 
   <h3 id="usable-accessibility">Usable Accessibility</h3>
