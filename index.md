@@ -19,11 +19,11 @@ status: editors-draft
   <h2 id="terms">Distinctions and Overlaps</h2>
   <dl>
     <dt id="accessibility"><strong>Accessibility</strong></dt>
-      <dd><em>Accessibility</em> addresses discriminatory aspects related to equivalent user experience for people with disabilities, including people with age-related impairments. For the web, accessibility means that people with disabilities can perceive, understand, navigate, and interact with websites and tools, and that they can contribute equally without barriers. For more information, see the <a href="https://www.w3.org/standards/webdesign/accessibility">Accessibility introduction</a>.</dd>
+      <dd><em>Accessibility</em> addresses discriminatory aspects related to equivalent user experience for people with disabilities. For the web, accessibility means that people with disabilities can perceive, understand, navigate, and interact with websites and tools, and that they can contribute equally without barriers. For more information, see the <a href="https://www.w3.org/standards/webdesign/accessibility">Accessibility introduction</a>.</dd>
     <dt id="usability"><strong>Usability</strong></dt>
       <dd><em>Usability</em> and <em>user experience design </em>is about designing products to be effective, efficient, and satisfying. Specifically, <acronym title="International Organization for Standardization">ISO</acronym> defines usability as the &ldquo;extent to which a product can be used by specified users to achieve specified goals effectively, efficiently and with satisfaction in a specified context of use&quot; (in <a href="http://www.iso.org/iso/catalogue_detail.htm?csnumber=16883">ISO 9241-11</a>).</dd>
     <dt id="inclusion"><strong>Inclusion</strong></dt>
-      <dd><em>Inclusive design</em>, <em>universal design</em>, and <em>design for all</em> involves designing products, such as websites, to be usable by everyone to the greatest extent possible. Inclusion addresses a broad range of issues including access to and quality of hardware, software, and Internet connectivity; computer literacy and skills; economic situation; education; geographic location; and language &mdash; as well as age and disability.</dd>
+    <dd><em>Inclusion</em> or <em>Inclusive design</em>, <em>universal design</em>, and <em>design for all</em> involves designing products, such as websites, to be usable by everyone to the greatest extent possible. Inclusion addresses a broad range of issues including access to and quality of hardware, software, and Internet connectivity; computer literacy and skills; economic situation; education; geographic location; age; and language &mdash; as well as disability.</dd>
   </dl>
 
   <h3 id="accessible-usable">Accessibility and Usability</h3>
