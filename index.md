@@ -27,14 +27,14 @@ status: editors-draft
   </dl>
 
   <h3 id="accessible-usable">Accessibility and Usability</h3>
-  <p>While accessibility focuses on people with disabilities, many accessibility requirements also improve usability for everyone. Accessibility especially benefits people without disabilities who are in limiting situations, such as using the web on a mobile phone when visual attention is elsewhere, in bright sunlight, in a dark room, in a quiet environment, in a noisy environment, and in an emergency.</p>
+  <p>While accessibility focuses on people with disabilities, many accessibility requirements also improve usability for everyone. Accessibility especially benefits people without disabilities who are in limiting situations, such as using the web on a mobile phone when visual attention is elsewhere, in bright sunlight, in a dark room, in a quiet environment, in a noisy environment, or in an emergency.</p>
   <p>Accessibility includes both:</p>
   <ul class="listspaced">
-  <li><strong>Requirements that are more specific to people with disabilities</strong> &mdash; for example, they ensure that websites work well with assistive technologies such as screen readers that read aloud web pages, screen magnifiers that enlarge web pages, and voice recognition software that is used to input text. Most of these requirements are technical and relate to the underlying code rather than to the visual appearance.</li>
-    <li><strong>Requirements that are also general usability principles</strong> &mdash; which are included in accessibility requirements because they can be significant barriers to people with disabilities. For example, a website that is developed so that it can be used without a mouse is good usability; and use without a mouse is an accessibility requirement because people with some physical and visual disabilities cannot use a mouse at all. In defining accessibility requirements, care is usually taken to not include aspects that impact all people similarly, and only include aspects that put person with a disability is at a disadvantage relative to a person without a disability.</li>
+  <li><strong>Requirements that are more specific to people with disabilities</strong> &mdash; for example, they ensure that websites work well with assistive technologies such as screen readers that read aloud web pages, screen magnifiers that enlarge web pages, or voice recognition software that is used to input text. Most of these requirements are technical and relate to the underlying code rather than to the visual appearance.</li>
+    <li><strong>Requirements that are also general usability principles</strong> &mdash; which are included in accessibility requirements because they can be significant barriers to people with disabilities. For example, a website that is developed so that it can be used without a mouse is good usability; and use without a mouse is an accessibility requirement because people with some physical and visual disabilities cannot use a mouse at all. In defining accessibility requirements, care is usually taken to not include things that impact all people similarly, but only include things that put a person with a disability at a disadvantage relative to a person without a disability.</li>
   </ul>
   <p>Usability and user experience design significantly overlap with accessibility <em><strong>when</strong></em> &quot;specified users&quot; includes people with a range of disabilities and &quot;specified context of use&quot; includes accessibility considerations such as assistive technologies. However, the needs of people with disabilities are often not sufficiently addressed in usability practice and research.</p>
-  <p>Additionally, accessibility includes a technical aspect that is usually not a focus of usability. In practice, basic accessibility is a prerequisite for usability.</p>
+  <p>Additionally, accessibility includes technical aspects that are usually not a focus of usability. In practice, basic accessibility is a prerequisite for usability.</p>
 
   <h3 id="inclusive-design">Accessibility and Inclusive Design</h3>
   <p class="listintro">Several accessibility requirements also benefit people and situations that are a focus of inclusive design. For example, <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and <em>Without</em> Disabilities</a> describes accessibility benefits to:</p>
@@ -53,8 +53,9 @@ status: editors-draft
   <p>Combining accessibility standards and usability processes with real people ensures that web design is technically and functionally usable by people with disabilities. This is referred to as <em>usable accessibility</em> or <em>accessible user experience (UX)</em>.</p>
 
   <h3 id="usable-accessibility">Usable Accessibility</h3>
-  <p>Web designers and developers can use usability processes, methods, and techniques, such as user-centered design (UCD) process and user experience design, to address the user interface component of accessibility. While the considerations of people with disabilities are not always included in common practices, they can be easily integrated into existing usability processes, methods, and techniques.</p>
-  <p class="listintro">A key aspect is incorporating <strong>real people</strong> in design, including:</p>
+  <p>Web designers and developers can use usability, or user experience design processes, methods, and techniques, to address the user interface component of accessibility. While the considerations of people with disabilities are not always included in common practices, they can be easily integrated into user experience design.
+</p>
+  <p class="listintro">A key aspect is incorporating <strong>real people</strong> in design:</p>
   <ul class="listafterpul">
     <li>Ensuring that everyone involved in web projects understands the basics of <a href="https://www.w3.org/WAI/intro/people-use-web">how people with disabilities use the Web</a>,</li>
     <li><a href="https://www.w3.org/WAI/users/involving">Involving users with disabilities</a> early and throughout the design process, and </li>
@@ -67,6 +68,6 @@ status: editors-draft
   <p>Accessibility practitioners and researchers can incorporate usability techniques to improve 'usable accessibility'. User experience designers and researchers can incorporate accessibility to make their designs work better for more people in more situations. Addressing accessibility, usability, and inclusion together can more effectively lead to a more accessible, usable, and inclusive web for everyone. Resources to help are linked throughout this page.</p>
   <p class="listintro"><a href="http://dspace.mit.edu/handle/1721.1/88013">The role of accessibility in a universal web</a> is a related resource that:</p>
   <ul class="listafterpul">
-    <li>provides a more in-depth exploration of the importance and benefits of accessibility as a distinct discipline continuing to focus on people with disabilities,</li>
-    <li>encourages increased communication and coordination between accessibility, usability, and inclusion research and practice in the design and development of guidelines, websites, browsers, assistive technologies, and other web tools.</li>
+    <li>provides a more in-depth exploration of the importance and benefits of accessibility as a distinct discipline, and</li>
+    <li>encourages increased communication and coordination between accessibility, usability, and inclusion research and practice.</li>
   </ul>
