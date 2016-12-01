@@ -7,13 +7,12 @@ status: editors-draft
 
   <h2 id="introduction" class="no-display">Introduction</h2>
   <p><em>Accessibility, usability, and inclusive design</em> are closely related. Their goals, approaches, and guidelines overlap significantly.</p>
-  <p>In most situations, such as when designing and developing websites and applications, it is most effective to address them together.</p>
-  <p>There are a few situations when it's important to focus specifically on one aspect, such as when addressing discrimination against people with disabilities and when defining specific accessibility standards.</p>
+  <p>In most situations, such as when designing and developing websites and applications, it is most effective to address them together. However, sometimes it's important to focus specifically on one aspect, such as when addressing discrimination against people with disabilities and when defining specific accessibility standards.</p>
   <p class="listintro">This article briefly:</p>
   <ul class="listafterpul">
     <li>explains the distinctions and overlaps between accessibility, usability, and inclusive design,</li>
     <li>points out the importance of maintaining the focus of accessibility on people with disabilities, and</li>
-    <li>encourages increased coordination between accessibility, usability, and inclusion.</li>
+    <li>encourages increased coordination across accessibility, usability, and inclusion practices.</li>
   </ul>
 
   <h2 id="terms">Distinctions and Overlaps</h2>
