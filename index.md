@@ -25,9 +25,6 @@ status: editors-draft
       <dd><em>Inclusion</em>, also <em>universal design</em> and <em>design for all</em>, is about ensuring involvement of everyone to the greatest extent possible. It addresses a broad range of issues including access to and quality of hardware, software, and Internet connectivity; computer literacy and skills; economic situation; education; geographic location; age; and language &mdash; as well as disability.</dd>
   </dl>
 
-  <h3 id="accessibility-scope">Accessibility Scope</h3>
-  </ul>
-
   <h3 id="accessible-usable">Accessibility and Usability</h3>
   <p>While accessibility focuses on people with disabilities, many accessibility requirements also improve usability for everyone. Accessibility especially benefits people in limiting situations, such as using the web on a mobile phone when visual attention is elsewhere, in bright sunlight, in a dark room, and in quiet or noisy environments. Accessibility also addresses functional limitations aquired by age, even though some people may not identify these as &quot;disability&quot;.</p>
   <p>Accessibility includes:</p>
