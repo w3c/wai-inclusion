@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Accessibility, Usability, and Inclusion
-subtitle: Related Aspects of a Web for Everyone
 status: editors-draft
 ---
 
