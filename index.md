@@ -10,8 +10,8 @@ status: editors-draft
   <p class="listintro">This article briefly:</p>
   <ul class="listafterpul">
     <li>explains the distinctions and overlaps between accessibility, usability, and inclusive design,</li>
-    <li>points out the importance of maintaining the focus of accessibility on people with disabilities, and</li>
-    <li>encourages increased coordination across accessibility, usability, and inclusion practices.</li>
+    <li>encourages increased coordination across research and practice in these disciplines, and,</li>
+    <li>points out the importance of maintaining the focus of accessibility on people with disabilities.</li>
   </ul>
 
   <h2 id="terms">Distinctions and Overlaps</h2>
@@ -36,15 +36,15 @@ status: editors-draft
   <h3 id="inclusive-design">Accessibility and Inclusion</h3>
   <p class="listintro">Several accessibility requirements also benefit people and situations that are a focus of inclusive design. For example, <a href="https://www.w3.org/WAI/bcase/soc#groups">Web Accessibility Benefits People With and <em>Without</em> Disabilities</a> describes accessibility benefits for:</p>
   <ul class="listafterpul">
-    <li>people with low literacy or not fluent in the language</li>
-    <li>people with low bandwidth connections or using older technologies</li>
-    <li>new and infrequent users</li>
-    <li><a href="https://www.w3.org/WAI/mobile/overlap">mobile device users</a></li>
+    <li>people with low literacy or not fluent in the language,</li>
+    <li>people with low bandwidth connections or using older technologies,</li>
+    <li>new and infrequent users, and,</li>
+    <li><a href="https://www.w3.org/WAI/mobile/overlap">mobile device users</a>.</li>
   </ul>
   <p>However, accessibility focuses on disability and does not try to address broader issues. Other efforts, such as <a href="https://www.w3.org/International/">internationalization</a>, address other inclusion issues. Keeping accessibility focused on disabilities encourages research and development on the specific needs of people with disabilities, and solutions that are optimized for these specific needs.</p>
 
   <h2 id="accessible-design">Accessible Design</h2>
-  <p>There are <a href="https://www.w3.org/WAI/guid-tech.html">guidelines, standards, and techniques</a>, such as the Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>), which is the international standard <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>. Yet when designers, developers, and project managers approach accessibility as a checklist to meet standards, the focus is only on the technical aspects of accessibility, and the human interaction aspect is often lost, and accessibility is not achieved.</p>
+  <p>There are <a href="https://www.w3.org/WAI/guid-tech.html">guidelines, standards, and techniques for web accessibility</a>, such as the Web Content Accessibility Guidelines (<a href="http://www.w3.org/WAI/intro/wcag">WCAG</a>), which is the international standard <a href="https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/">ISO/IEC 40500</a>. Yet when designers, developers, and project managers approach accessibility as a checklist to meet these standards, the focus is only on the technical aspects of accessibility. As a result, the human interaction aspect is often lost, and accessibility is not achieved.</p>
   <p>Combining accessibility standards and usability processes with real people ensures that web design is technically and functionally usable by people with disabilities. This is referred to as <em>usable accessibility</em> or <em>accessible user experience (UX)</em>.</p>
 
   <h3 id="usable-accessibility">Usable Accessibility</h3>
