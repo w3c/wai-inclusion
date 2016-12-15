@@ -25,7 +25,7 @@ status: editors-draft
   </dl>
 
   <h3 id="accessible-usable">Accessibility and Usability</h3>
-  <p>While accessibility focuses on people with disabilities, many accessibility requirements also improve usability for everyone. Accessibility especially benefits people in limiting situations, such as using the web on a mobile phone when visual attention is elsewhere, in bright sunlight, in a dark room, and in quiet or noisy environments. Accessibility also addresses functional limitations aquired by age, even though some people may not identify these as &quot;disability&quot;.</p>
+  <p>While accessibility focuses on people with disabilities, many accessibility requirements also improve usability for everyone. For example, accessibility features such as providing sufficient contrast, scalable font size and captioning also benefit people in limiting situations, such as using the web on a mobile phone when visual attention is elsewhere, in bright sunlight, in a dark room, and in quiet or noisy environments. Accessibility also addresses functional limitations aquired by age, even though some people may not identify these as &quot;disability&quot;.</p>
   <p>Accessibility includes:</p>
   <ul class="listspaced">
   <li><strong>Requirements that are technical and relate to the underlying code rather than to the visual appearance</strong> &mdash; for example, they ensure that websites work well with assistive technologies such as screen readers that read aloud web pages, screen magnifiers that enlarge web pages, and voice recognition software that is used to input text. These aspects are typically not a focus of usability research and practice.</li>
