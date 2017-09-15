@@ -54,7 +54,7 @@ Distinctions and Overlaps {#terms}
     perceive, understand, navigate, and interact with websites and
     tools, and that they can contribute equally without barriers. For
     more information, see the [Accessibility
-    introduction]({{ site.github.url }}{% link pages/intro-accessibility.md %}).
+    introduction]({{ site.github.url }}/fundamentals/accessibility-intro/).
 
 **Usability**
 :   *Usability*, including *user experience design*, is about designing
@@ -173,7 +173,7 @@ A key aspect is incorporating **real people** in design:
 
 **Accessibility standards** also have an important role in accessible
 design. For example, understanding the basic [Accessibility
-Principles]({{ site.github.url }}{% link pages/accessibility-principles.md %}) and
+Principles]({{ site.github.url }}/fundamentals/accessibility-principles/) and
 using them for developing and evaluating early prototypes helps the
 development team provide basic accessibility in the earliest stages.
 Addressing accessibility at later stages becomes increasingly difficult.
