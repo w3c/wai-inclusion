@@ -22,27 +22,20 @@ support:
     url: https://www.w3.org/WAI/WAI-AGE/
 ---
 
+
 Introduction
 ------------
 {:#introduction.no-display}
 
-*Accessibility, usability, and inclusion* are closely related aspects in
-creating a web that works for everyone. Their goals, approaches, and
-guidelines overlap significantly. When designing and developing websites
-and applications, it is most effective to address them together.
+*Accessibility, usability, and inclusion* are closely related aspects in creating a web that works for everyone. Their goals, approaches, and guidelines overlap significantly. It is most effective to address them together when designing and developing websites and applications.
 
-There are a few situations when it's important to focus specifically on
-one aspect, such as when researching accessibility needs of people with
-disabilities to help develop standards and policies.
+There are a few situations when it's important to focus specifically on one aspect. For example when developing standards and policies. Researching the accessibility needs of people with disabilities helps with developing those.
 
 This article briefly:
 
--   explains the distinctions and overlaps between accessibility,
-    usability, and inclusive design,
--   encourages increased coordination across research and practice in
-    these disciplines, and,
--   points out the importance of maintaining the focus of accessibility
-    on people with disabilities.
+-   explains the distinctions and overlaps between accessibility, usability, and inclusive design,
+-   encourages increased coordination across research and practice in these disciplines, and,
+-   points out the importance of maintaining the focus of accessibility on people with disabilities.
 
 Distinctions and Overlaps {#terms}
 -------------------------
