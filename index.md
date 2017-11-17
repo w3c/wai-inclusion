@@ -29,7 +29,7 @@ Introduction
 
 *Accessibility, usability, and inclusion* are closely related aspects in creating a web that works for everyone. Their goals, approaches, and guidelines overlap significantly. It is most effective to address them together when designing and developing websites and applications.
 
-There are a few situations when it's important to focus specifically on one aspect. For example when developing standards and policies. Researching the accessibility needs of people with disabilities helps with developing those.
+There are a few situations when it's important to focus specifically on one aspect. For example, when developing standards and policies. Researching the accessibility needs of people with disabilities helps with developing those.
 
 This article briefly:
 
