@@ -44,17 +44,17 @@ Distinctions and Overlaps {#terms}
 
 **Usability**: is about designing products to be effective, efficient, and satisfying. Usability includes *user experience design*. This may include general aspects that impact everyone and do not disproportionally impact people with disabilities. Usability practice and research often does not sufficiently address the needs of people with disabilities.
 
-**Inclusion**: is about ensuring involvement of everyone to the greatest extent possible. *Universal design* and *design for all* are also considered part of inclusion.  It addresses a broad range of issues including disability as well as: 
+**Inclusion**: is about diversity, and ensuring involvement of everyone to the greatest extent possible. In some regions this is also referred to as *universal design* and *design for all*.  It addresses a broad range of issues including: 
 
+* accessibility for people with disabilities;
 * access to and quality of hardware, software, and Internet connectivity; 
 * computer literacy and skills; 
 * economic situation; 
 * education; 
 * geographic location; 
-* age; 
+* culture;
+* age, including older and younger people; 
 * and language.
-
-
 
 ### Accessibility and Usability {#accessible-usable}
 
