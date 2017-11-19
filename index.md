@@ -39,31 +39,22 @@ This article briefly:
 
 Distinctions and Overlaps {#terms}
 -------------------------
+    
+**Accessibility**: addresses discriminatory aspects related to equivalent user experience for people with disabilities. Web accessibility means that people with disabilities can equally perceive, understand, navigate, and interact with websites and tools. It also means that they can contribute equally without barriers. For more information, see the [Accessibility introduction]({{ site.github.url }}/fundamentals/accessibility-intro/).
 
-**Accessibility**
-:   *Accessibility* addresses discriminatory aspects related to
-    equivalent user experience for people with disabilities. For the
-    web, accessibility means that people with disabilities can equally
-    perceive, understand, navigate, and interact with websites and
-    tools, and that they can contribute equally without barriers. For
-    more information, see the [Accessibility
-    introduction]({{ site.github.url }}/fundamentals/accessibility-intro/).
+**Usability**: is about designing products to be effective, efficient, and satisfying. Usability includes *user experience design*. This may include general aspects that impact everyone and do not disproportionally impact people with disabilities. Usability practice and research often does not sufficiently address the needs of people with disabilities.
 
-**Usability**
-:   *Usability*, including *user experience design*, is about designing
-    products to be effective, efficient, and satisfying. This may
-    include general aspects that impact everyone and do not
-    disproportionally impact people with disabilities. Moreover, the
-    needs of people with disabilities are often not sufficiently
-    addressed in usability practice and research.
+**Inclusion**: is about diversity, and ensuring involvement of everyone to the greatest extent possible. In some regions this is also referred to as *universal design* and *design for all*.  It addresses a broad range of issues including: 
 
-**Inclusion**
-:   *Inclusion*, also *universal design* and *design for all*, is about
-    ensuring involvement of everyone to the greatest extent possible. It
-    addresses a broad range of issues including access to and quality of
-    hardware, software, and Internet connectivity; computer literacy and
-    skills; economic situation; education; geographic location; age; and
-    language — as well as disability.
+* accessibility for people with disabilities;
+* access to and quality of hardware, software, and Internet connectivity; 
+* computer literacy and skills; 
+* economic situation; 
+* education; 
+* geographic location; 
+* culture;
+* age, including older and younger people; 
+* and language.
 
 ### Accessibility and Usability {#accessible-usable}
 
