@@ -58,44 +58,23 @@ Distinctions and Overlaps {#terms}
 
 ### Accessibility and Usability {#accessible-usable}
 
-While accessibility focuses on people with disabilities, many
-accessibility requirements also improve usability for everyone. For
-example, accessibility features such as providing sufficient contrast,
-scalable font size, and captioning also benefit people in limiting
-situations, such as using the web on a mobile phone when visual
-attention is elsewhere, in bright sunlight, in a dark room, and in quiet
-or noisy environments. Accessibility also addresses functional
-limitations aquired by age, even though some people may not identify
-these as "disability".
+Accessibility primarily focuses on people with disabilities. But many accessibility requirements improve usability for everyone, especially in limiting situations. For example, providing sufficient color contrast benefits people using the web on a mobile device in bright sunlight. Captions will benefit people in noisy environments. Scalable font size helps people in dark room. Some elderly people have age-related functional limitations. They may not identify these as "disability". Accessibility helps address these functional limitations.
 
 Accessibility includes:
 
--   **Requirements that are technical and relate to the underlying code
-    rather than to the visual appearance** — for example, they ensure
-    that websites work well with assistive technologies such as screen
-    readers that read aloud web pages, screen magnifiers that enlarge
-    web pages, and voice recognition software that is used to input
-    text. These aspects are typically not a focus of usability research
-    and practice.
--   **Requirements that relate to user interaction and visual design** —
-    they are included in accessibility requirements because they can be
-    significant barriers to people with disabilities. For example,
-    understandable instructions and feedback for website forms and
-    applications is good usability; and is also an accessibility
-    requirement because many people with cognitive and learning
-    disabilities are otherwise excluded.
+-   **Requirements that are technical and relate to the underlying code rather than to the visual appearance**. For example, they ensure that websites work well with assistive technologies. Assistive technologies include screen readers that read web pages aloud. They also include screen magnifiers that enlarge web pages. Voice recognitition software used to input text is another form of assistive technology.  These aspects are typically not a focus of usability research and practice.
+-   **Requirements that relate to user interaction and visual design**. User interaction and visual design can cause significant barriers for people with disabilities. That is why they are included. Understandable instructions and feedback for website forms and application is good usability. Clear instructions also helps people with cognitive or learning impairments. Therefore, clear instructions avoids exluding people with disabilities.
 
-Thus accessibility and usability overlap significantly. According to
-[ISO
-9241-11](http://www.iso.org/iso/catalogue_detail.htm?csnumber=16883),
-usability is defined as the "extent to which a product can be used by
-specified users to achieve specified goals effectively, efficiently and
-with satisfaction in a specified context of use". This could address
-accessibility ***when*** "specified users" includes people with a range
-of disabilities and "specified context of use" includes accessibility
-considerations such as assistive technologies. However, the needs of
-people with disabilities are often not sufficiently addressed in
-usability practice and research.
+There is a significant overlap between accessibility and usability. [ISO 9241-11](http://www.iso.org/iso/catalogue_detail.htm?csnumber=16883), defines usability as:
+
+> The "extent to which a product can be used by specified users to achieve specified goals effectively, efficiently and with satisfaction in a specified context of use". 
+
+This could address accessibility ***when***:
+
+* "specified users" includes people with a range of disabilities, and 
+* "specified context of use" includes accessibility considerations such as assistive technologies. 
+
+But usability practice and research often does not consider the needs of people with disabilities.
 
 ### Accessibility and Inclusion {#inclusive-design}
 
