@@ -58,12 +58,12 @@ Distinctions and Overlaps {#terms}
 
 ### Accessibility and Usability {#accessible-usable}
 
-Accessibility primarily focuses on people with disabilities. But many accessibility requirements improve usability for everyone, especially in limiting situations. For example, providing sufficient color contrast benefits people using the web on a mobile device in bright sunlight. Captions will benefit people in noisy environments. Scalable font size helps people in dark room. Some elderly people have age-related functional limitations. They may not identify these as "disability". Accessibility helps address these functional limitations.
+Accessibility primarily focuses on people with disabilities. Many accessibility requirements improve usability for everyone, especially in limiting situations. For example, providing sufficient color contrast benefits people using the web on a mobile device in bright sunlight or in a dark room. Captions benefit people in noisy and in quiet environments. Some people have age-related functional limitations, and may not identify these as "disability". Accessibility addresses these situations too.
 
 Accessibility includes:
 
--   **Requirements that are technical and relate to the underlying code rather than to the visual appearance**. For example, they ensure that websites work well with assistive technologies. Assistive technologies include screen readers that read web pages aloud. They also include screen magnifiers that enlarge web pages. Voice recognitition software used to input text is another form of assistive technology.  These aspects are typically not a focus of usability research and practice.
--   **Requirements that relate to user interaction and visual design**. User interaction and visual design can cause significant barriers for people with disabilities. That is why they are included. Understandable instructions and feedback for website forms and application is good usability. Clear instructions also helps people with cognitive or learning impairments. Therefore, clear instructions avoids exluding people with disabilities.
+-   **Requirements that are technical and relate to the underlying code rather than to the visual appearance**. For example, they ensure that websites work well with assistive technologies. This includes screen readers that read aloud content, and screen magnifiers that enlarge content. Voice recognitition software used to input text is another form of assistive technology.  These aspects are typically not a focus of usability research and practice.
+-   **Requirements that relate to user interaction and visual design**. Inadequate design can cause significant barriers for people with disabilities. That is why they are included. For example, understandable instructions and feedback for website forms and applications is good usability. They also help people with cognitive and learning disabilities. Without such requirements, some people with disabilities may be excluded from using the Web.
 
 There is a significant overlap between accessibility and usability. [ISO 9241-11](http://www.iso.org/iso/catalogue_detail.htm?csnumber=16883), defines usability as:
 
