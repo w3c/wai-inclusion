@@ -58,7 +58,7 @@ Distinctions and Overlaps {#terms}
 
 ### Accessibility and Usability {#accessible-usable}
 
-Accessibility primarily focuses on people with disabilities. Many accessibility requirements improve usability for everyone, especially in limiting situations. For example, providing sufficient color contrast benefits people using the web on a mobile device in bright sunlight or in a dark room. Captions benefit people in noisy and in quiet environments. Some people have age-related functional limitations, and may not identify these as "disability". Accessibility addresses these situations too.
+Accessibility primarily focuses on people with disabilities. Many accessibility requirements improve usability for everyone, especially in limiting situations. For example, providing sufficient contrast benefits people using the web on a mobile device in bright sunlight or in a dark room. Captions benefit people in noisy and in quiet environments. Some people have age-related functional limitations, and may not identify these as "disability". Accessibility addresses these situations too.
 
 Accessibility includes:
 
