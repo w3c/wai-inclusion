@@ -2,6 +2,7 @@
 layout: default
 title: Accessibility, Usability, and Inclusion
 permalink: /fundamentals/accessibility-usability-inclusion/
+redirect_from: /
 status: editors-draft
 date: 2016-12-15
 people:
@@ -39,21 +40,21 @@ This article briefly:
 
 Distinctions and Overlaps {#terms}
 -------------------------
-    
+
 **Accessibility**: addresses discriminatory aspects related to equivalent user experience for people with disabilities. Web accessibility means that people with disabilities can equally perceive, understand, navigate, and interact with websites and tools. It also means that they can contribute equally without barriers. For more information, see the [Accessibility introduction]({{ site.github.url }}/fundamentals/accessibility-intro/).
 
 **Usability**: is about designing products to be effective, efficient, and satisfying. Usability includes *user experience design*. This may include general aspects that impact everyone and do not disproportionally impact people with disabilities. Usability practice and research often does not sufficiently address the needs of people with disabilities.
 
-**Inclusion**: is about diversity, and ensuring involvement of everyone to the greatest extent possible. In some regions this is also referred to as *universal design* and *design for all*.  It addresses a broad range of issues including: 
+**Inclusion**: is about diversity, and ensuring involvement of everyone to the greatest extent possible. In some regions this is also referred to as *universal design* and *design for all*.  It addresses a broad range of issues including:
 
 * accessibility for people with disabilities;
-* access to and quality of hardware, software, and Internet connectivity; 
-* computer literacy and skills; 
-* economic situation; 
-* education; 
-* geographic location; 
+* access to and quality of hardware, software, and Internet connectivity;
+* computer literacy and skills;
+* economic situation;
+* education;
+* geographic location;
 * culture;
-* age, including older and younger people; 
+* age, including older and younger people;
 * and language.
 
 ### Accessibility and Usability {#accessible-usable}
@@ -67,12 +68,12 @@ Accessibility includes:
 
 There is a significant overlap between accessibility and usability. [ISO 9241-11](http://www.iso.org/iso/catalogue_detail.htm?csnumber=16883), defines usability as:
 
-> The "extent to which a product can be used by specified users to achieve specified goals effectively, efficiently and with satisfaction in a specified context of use". 
+> The "extent to which a product can be used by specified users to achieve specified goals effectively, efficiently and with satisfaction in a specified context of use".
 
 This could address accessibility ***when***:
 
-* "specified users" includes people with a range of disabilities, and 
-* "specified context of use" includes accessibility considerations such as assistive technologies. 
+* "specified users" includes people with a range of disabilities, and
+* "specified context of use" includes accessibility considerations such as assistive technologies.
 
 But usability practice and research often does not consider the needs of people with disabilities.
 
