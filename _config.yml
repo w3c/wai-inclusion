@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   The Website of the World Wide Web Consortium’s Web Accessibility Initiative.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://w3c.github.io/wai-InvolveUsersEval/" # the base hostname & protocol for your site
+url: "https://w3c.github.io/wai-inclusion/" # the base hostname & protocol for your site
 twitter:
   username: w3c_wai
 author: w3c_wai
@@ -33,8 +33,7 @@ repository: w3c/wai-inclusion
 
 ytkey: AIzaSyCiZ9uToWu9jb7BTx47NtzCvmGGXKXp8nI
 
-includes_dir: _external/wai-website-jekyll-templates/_includes
-layouts_dir: _external/wai-website-jekyll-templates/_layouts
+remote_theme: w3c/wai-website-theme
 
 collections:
 defaults:
@@ -44,3 +43,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-include-cache
+  - jekyll-remote-theme
