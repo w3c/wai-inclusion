@@ -2,25 +2,12 @@
 layout: default
 title: Accessibility, Usability, and Inclusion
 permalink: /fundamentals/accessibility-usability-inclusion/
-redirect_from: /
 status: editors-draft
-date: 2016-12-15
-people:
-  editorslabel: "Editor"
-  editors:
-    - name: Shadi Abou-Zahra
-      url: https://www.w3.org/People/shadi
-    - name: Shawn Lawton Henry
-      url: https://www.w3.org/People/Shawn
-    - name: Kevin White
-      url: https://www.w3.org/People/kevin
-  contributors:
-    - name: Sharron Rush
-support:
-  - name: WAI-DEV Project
-    url: https://www.w3.org/WAI/WAI-DEV/
-  - name: WAI-AGE Project
-    url: https://www.w3.org/WAI/WAI-AGE/
+footer: >
+  <p>
+  <strong>Status:</strong> updated 6 May 2016 (first published March 2010) <br>
+  <strong>Editors:</strong> <a href="/People/Shawn">Shawn Lawton Henry</a>, <a href="/People/shadi">Shadi Abou-Zahra</a>, and <a href="/People/kevin">Kevin White</a>. Contributors: Sharron Rush and <a href="/WAI/EO/EOWG-members">participants</a> of the <a href="/WAI/EO/">Education and Outreach Working Group</a>. Updated with support from the <a href="/WAI/DEV/"><abbr>WAI-DEV</abbr> Project</a>. First developed by Shawn Lawton Henry and Shadi Abou-Zahra and EOWG participants in 2010, with support from the <a href="/WAI/WAI-AGE/"><abbr>WAI-AGE</abbr> Project</a>.
+  </p>
 ---
 
 
