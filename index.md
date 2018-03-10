@@ -28,7 +28,7 @@ This article briefly:
 Distinctions and Overlaps {#terms}
 -------------------------
 
-**Accessibility**: addresses discriminatory aspects related to equivalent user experience for people with disabilities. Web accessibility means that people with disabilities can equally perceive, understand, navigate, and interact with websites and tools. It also means that they can contribute equally without barriers. For more information, see the [Accessibility introduction]({{ site.github.url }}/fundamentals/accessibility-intro/).
+**Accessibility**: addresses discriminatory aspects related to equivalent user experience for people with disabilities. Web accessibility means that people with disabilities can equally perceive, understand, navigate, and interact with websites and tools. It also means that they can contribute equally without barriers. For more information, see the [Accessibility introduction]({{ "/fundamentals/accessibility-intro/" | relative_url }}).
 
 **Usability**: is about designing products to be effective, efficient, and satisfying. Usability includes *user experience design*. This may include general aspects that impact everyone and do not disproportionally impact people with disabilities. Usability practice and research often does not sufficiently address the needs of people with disabilities.
 
@@ -75,7 +75,7 @@ describes accessibility benefits for:
 -   people with low literacy or not fluent in the language,
 -   people with low bandwidth connections or using older technologies,
 -   new and infrequent users, and,
--   [mobile device users](https://www.w3.org/WAI/mobile/overlap).
+-   [mobile device users]({{ "/standards-guidelines/wcag-mobile-overlap/" | relative_url }}).
 
 However, accessibility focuses on disability and does not try to address
 broader issues. Other efforts, such as
@@ -88,9 +88,9 @@ Accessible Design
 -----------------
 
 There are [guidelines, standards, and techniques for web
-accessibility](https://www.w3.org/WAI/guid-tech.html), such as the Web
+accessibility]({{ "/standards-guidelines/" | relative_url }}), such as the Web
 Content Accessibility Guidelines
-([WCAG](http://www.w3.org/WAI/intro/wcag)), which is the international
+([WCAG]({{ "/standards-guidelines/wcag/" | relative_url }})), which is the international
 standard [ISO/IEC
 40500](https://www.w3.org/blog/2012/10/wcag-20-is-now-also-isoiec-405/).
 Yet when designers, developers, and project managers approach
@@ -115,7 +115,7 @@ A key aspect is incorporating **real people** in design:
 
 -   Ensuring that everyone involved in web projects understands the
     basics of [how people with disabilities use the
-    Web](https://www.w3.org/WAI/intro/people-use-web),
+    Web]({{ "/people-use-web/" | relative_url }}),
 -   [Involving users with
     disabilities](https://www.w3.org/WAI/users/involving) early and
     throughout the design process, and
