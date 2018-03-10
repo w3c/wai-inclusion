@@ -114,17 +114,13 @@ experience design.
 A key aspect is incorporating **real people** in design:
 
 -   Ensuring that everyone involved in web projects understands the
-    basics of [how people with disabilities use the
-    Web]({{ "/people-use-web/" | relative_url }}),
--   [Involving users with
-    disabilities](https://www.w3.org/WAI/users/involving) early and
+    basics of [how people with disabilities use the Web]({{ "/people-use-web/" | relative_url }}),
+-   [Involving users with disabilities]({{ "/plan/involving-users/" | relative_url }}) early and
     throughout the design process, and
--   [Involving users in evaluating web
-    accessibility](https://www.w3.org/WAI/eval/users.html).
+-   [Involving users in evaluating web accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}).
 
 **Accessibility standards** also have an important role in accessible
-design. For example, understanding the basic [Accessibility
-Principles]({{ site.github.url }}/fundamentals/accessibility-principles/) and
+design. For example, understanding the basic [Accessibility Principles]({{ "/fundamentals/accessibility-principles/" | relative_url }}) and
 using them for developing and evaluating early prototypes helps the
 development team provide basic accessibility in the earliest stages.
 Addressing accessibility at later stages becomes increasingly difficult.
