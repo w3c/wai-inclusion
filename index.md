@@ -2,6 +2,8 @@
 layout: default
 title: Accessibility, Usability, and Inclusion
 permalink: /fundamentals/accessibility-usability-inclusion/
+github:
+  repository: w3c/wai-inclusion
 status: editors-draft
 footer: >
   <p>
