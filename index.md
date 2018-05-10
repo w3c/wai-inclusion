@@ -4,10 +4,10 @@ title: Accessibility, Usability, and Inclusion
 permalink: /fundamentals/accessibility-usability-inclusion/
 github:
   repository: w3c/wai-inclusion
-status: editors-draft
+  branch: gh-pages
 footer: >
   <p><strong>Date:</strong> Updated 6 May 2016. First published March 2010.</p>
-  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="https://www.w3.org/People/kevin">Kevin White</a>. Contributors: Sharron Rush, and <a href="https://www.w3.org/WAI/EO/participants">EOWG Participants</a>.</p>
+  <p><strong>Editors:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>, <a href="https://www.w3.org/People/shadi/">Shadi Abou-Zahra</a>, and <a href="https://www.w3.org/People/kevin">Kevin White</a>. Contributors: Sharron Rush, and <a href="https://www.w3.org/WAI/EO/EOWG-members">EOWG Participants</a>.</p>
   <p>Developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>). Previously developed with support of the <a href="/WAI/WAI-AGE/"><abbr>WAI-AGE</abbr> Project</a>.</p>
 
 ---
