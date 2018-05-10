@@ -117,7 +117,7 @@ A key aspect is incorporating **real people** in design:
 
 -   Ensuring that everyone involved in web projects understands the
     basics of [how people with disabilities use the Web]({{ "/people-use-web/" | relative_url }}),
--   [Involving users with disabilities]({{ "/plan/involving-users/" | relative_url }}) early and
+-   [Involving users with disabilities]({{ "/planning/involving-users/" | relative_url }}) early and
     throughout the design process, and
 -   [Involving users in evaluating web accessibility]({{ "/test-evaluate/involving-users/" | relative_url }}).
 
