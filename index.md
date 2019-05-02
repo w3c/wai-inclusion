@@ -52,7 +52,7 @@ Accessibility primarily focuses on people with disabilities. Many accessibility 
 
 Accessibility includes:
 
--   **Requirements that are technical and relate to the underlying code rather than to the visual appearance**. For example, they ensure that websites work well with assistive technologies. This includes screen readers that read aloud content, and screen magnifiers that enlarge content. Voice recognitition software used to input text is another form of assistive technology.  These aspects are typically not a focus of usability research and practice.
+-   **Requirements that are technical and relate to the underlying code rather than to the visual appearance**. For example, they ensure that websites work well with assistive technologies. This includes screen readers that read aloud content, and screen magnifiers that enlarge content. Voice recognition software used to input text is another form of assistive technology.  These aspects are typically not a focus of usability research and practice.
 -   **Requirements that relate to user interaction and visual design**. Inadequate design can cause significant barriers for people with disabilities. That is why they are included. For example, understandable instructions and feedback for website forms and applications is good usability. They also help people with cognitive and learning disabilities. Without such requirements, some people with disabilities may be excluded from using the Web.
 
 There is a significant overlap between accessibility and usability. [ISO 9241-11](http://www.iso.org/iso/catalogue_detail.htm?csnumber=16883), defines usability as:
