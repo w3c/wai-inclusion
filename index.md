@@ -13,9 +13,8 @@ footer: >
 ---
 
 
-Introduction
-------------
-{:#introduction.no-display}
+## Introduction
+{:.no-display}
 
 *Accessibility, usability, and inclusion* are closely related aspects in creating a web that works for everyone. Their goals, approaches, and guidelines overlap significantly. It is most effective to address them together when designing and developing websites and applications.
 
