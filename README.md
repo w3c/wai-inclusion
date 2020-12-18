@@ -1,3 +1,1 @@
-# wai-inclusion
-
-Preview: http://w3c.github.io/wai-inclusion/fundamentals/accessibility-usability-inclusion/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8acc8608-6466-4905-abb7-4c040e69f570/deploy-status)](https://app.netlify.com/sites/flamboyant-bell-0200af/deploys)
